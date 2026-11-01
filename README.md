@@ -66,7 +66,7 @@ Deploying this portfolio on GitHub Pages takes less than 2 minutes:
 
 1. **Create a GitHub Repository**:
    - Go to [GitHub](https://github.com) and click **New Repository**.
-   - Name the repository `doaamhmdxo-netizen.github.io` (for a root personal domain) or `portfolio` (for `doaamhmdxo-netizen.github.io/portfolio`).
+   - Name the repository (https://github.com/doaamhmdxo-21/Portfolio1).
    - Set repository visibility to **Public**.
 
 2. **Push the Files to GitHub**:
@@ -86,4 +86,4 @@ Deploying this portfolio on GitHub Pages takes less than 2 minutes:
    - Under **Build and deployment** > **Source**, select **Deploy from a branch**.
    - Under **Branch**, select `main` and `/ (root)`, then click **Save**.
    - Within 60 seconds, your site will be live at:
-     `https://doaamhmdxo-netizen.github.io/[YOUR_REPO_NAME]/`
+     `https://github.com/doaamhmdxo-21/Portfolio1/[YOUR_REPO_NAME]/`
